@@ -12,15 +12,15 @@ Follow these steps to run the portfolio locally:
 
 git clone https://github.com/On-cloud7/Portfolio-1.git
 
-### Navigate into the project folder
+### 2. Navigate into the project folder
 cd Portfolio-1
 
-### Install dependencies
+### 3. Install dependencies
 npm install
 
 
-### Start the development server
+### 4. Start the development server
 npm start
 
-### Portfolio :
+### 5. Portfolio :
 https://portfolio-1-two-peach.vercel.app/
